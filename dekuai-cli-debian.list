@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/dekiai-cli.asc] https://hishantik.github.io/dekuai-cli-ppa ./

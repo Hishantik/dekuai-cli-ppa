@@ -1,0 +1,14 @@
+Package: dekuai-cli
+Version: 0.3.0-1
+Architecture: all
+Essential: yes
+Maintainer: Hishantik Sarkar
+Depends: jq,curl
+Filename: ./dekuai-cli_0.1.0-1_all.deb
+Size: 2532
+MD5sum: c187b7bd6aae6d5ace5a44da7b85c48d
+SHA1: 36e531c4f00b3623d6ba9cb11dd1f00e1df85d14
+SHA256: d4679a49896b9fd8d24b0e694bc1c39c4bd32c6172c6027845fc618c05c24086
+Priority: required
+Description: Dekuai-cli is a tool that fetch data essential queries from OpenAi api response..
+
